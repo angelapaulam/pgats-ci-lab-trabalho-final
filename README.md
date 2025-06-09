@@ -1,1 +1,1 @@
-# exemplo-pgats-ci-lab
+# aula-pgats-ci-lab
